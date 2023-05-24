@@ -19,3 +19,10 @@
 - 개인 블로그에 포스팅 후 링크를 ReadMe에 달아 놓는다.
 - 스터디 미팅은 매주 1회 온라인으로 진행한다.
 - 책을 읽고 궁금한 사항이나 논의해보고 싶은 내용들은 깃헙 이슈를 추가하여 논의하도록 한다.
+
+## 스터디 주차별 링크
+
+### 1주차
+
+김태현 - 1장 https://codingdreamtree.tistory.com/57
+        2장 https://codingdreamtree.tistory.com/67
