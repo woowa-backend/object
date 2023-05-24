@@ -24,5 +24,5 @@
 
 ### 1주차
 
-김태현 - 1장 https://codingdreamtree.tistory.com/57
+김태현 - 1장 https://codingdreamtree.tistory.com/57   
         2장 https://codingdreamtree.tistory.com/67
