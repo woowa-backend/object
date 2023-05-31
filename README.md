@@ -27,6 +27,8 @@
 김태현   
 - 1장 https://codingdreamtree.tistory.com/57   
 - 2장 https://codingdreamtree.tistory.com/67
+- 3장 https://codingdreamtree.tistory.com/68  
+- 4장 https://codingdreamtree.tistory.com/69
 
 이준희
 - 1장 https://phantom08266.github.io/posts/1%EC%9E%A5_%EA%B0%9D%EC%B2%B4%EC%84%A4%EA%B3%84/
