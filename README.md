@@ -40,3 +40,13 @@
 [4장]
 - 김태현 : https://codingdreamtree.tistory.com/69
 - 이준희 : https://phantom08266.github.io/posts/4%EC%9E%A5/
+  
+  
+### 3주차
+[5장]
+- 김태현 : https://codingdreamtree.tistory.com/70
+- 이준희 : 
+
+[6장]
+- 김태현 : https://codingdreamtree.tistory.com/71
+- 이준희 : 
