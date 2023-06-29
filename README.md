@@ -76,8 +76,8 @@
 ### 6주차
 [11장]
 - 김태현 : https://codingdreamtree.tistory.com/76
-- 이준희 : 
+- 이준희 : https://phantom08266.github.io/posts/11%EC%9E%A5/
 
 [12장]
 - 김태현 : https://codingdreamtree.tistory.com/77
-- 이준희 : 
+- 이준희 : https://phantom08266.github.io/posts/12%EC%9E%A5/
