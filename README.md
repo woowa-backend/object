@@ -90,3 +90,13 @@
 [14장]
 - 김태현 : https://codingdreamtree.tistory.com/79
 - 이준희 : 
+
+  
+### 8주차
+[15장]
+- 김태현 : https://codingdreamtree.tistory.com/80  
+- 이준희 :
+
+[부록A]
+- 김태현 : https://codingdreamtree.tistory.com/81  
+- 이준희 : 
