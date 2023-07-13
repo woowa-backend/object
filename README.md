@@ -89,13 +89,13 @@
 
 [14장]
 - 김태현 : https://codingdreamtree.tistory.com/79
-- 이준희 : 
+- 이준희 : https://phantom08266.github.io/posts/14%EC%9E%A5/
 
   
 ### 8주차
 [15장]
 - 김태현 : https://codingdreamtree.tistory.com/80  
-- 이준희 :
+- 이준희 : https://phantom08266.github.io/posts/15%EC%9E%A5/
 
 [부록A]
 - 김태현 : https://codingdreamtree.tistory.com/81  
