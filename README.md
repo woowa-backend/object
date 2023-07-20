@@ -99,4 +99,12 @@
 
 [부록A]
 - 김태현 : https://codingdreamtree.tistory.com/81  
-- 이준희 : 
+- 이준희 : https://phantom08266.github.io/posts/%EB%B6%80%EB%A1%9DA/
+
+
+### 9주차
+[부록B]
+- 김태현 : 
+- 이준희 : https://phantom08266.github.io/posts/%EB%B6%80%EB%A1%9DB/
+
+
