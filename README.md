@@ -104,7 +104,10 @@
 
 ### 9주차
 [부록B]
-- 김태현 : 
+- 김태현 : https://codingdreamtree.tistory.com/82
 - 이준희 : https://phantom08266.github.io/posts/%EB%B6%80%EB%A1%9DB/
 
+[부록C]
+- 김태현 : https://codingdreamtree.tistory.com/83
+- 이준희 : 
 
